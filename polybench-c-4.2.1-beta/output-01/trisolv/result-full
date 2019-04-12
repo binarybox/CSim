@@ -1,0 +1,7 @@
+read Hits 99.4077
+write hits 99.4078
+write conflicts 0.275985
+lines 512
+line size 1024
+associativity 1
+replacement policy FIFO

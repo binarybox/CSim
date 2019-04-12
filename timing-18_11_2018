@@ -1,0 +1,23 @@
+LFU 
+real	8m25,061s
+user	7m36,595s
+sys	0m21,050s
+FIFO 
+real	8m11,226s
+user	7m37,238s
+sys	0m21,146s
+LRU
+real	8m4,422s
+user	7m33,592s
+sys	0m22,356s
+
+collect data 
+real	2m48,608s
+user	2m26,717s
+sys	0m15,245s
+
+real	3m49,318s
+user	3m41,237s
+sys	0m7,388s
+
+

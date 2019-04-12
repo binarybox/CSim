@@ -1,0 +1,7 @@
+read Hits 90.8326
+write hits 80.6569
+write conflicts 19.1847
+lines 64
+line size 64
+associativity 1
+replacement policy LFU

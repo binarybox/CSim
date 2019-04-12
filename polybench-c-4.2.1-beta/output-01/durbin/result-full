@@ -1,0 +1,7 @@
+read Hits 99.4089
+write hits 96.0856
+write conflicts 3.75835
+lines 64
+line size 128
+associativity 1
+replacement policy LRU
