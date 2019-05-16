@@ -1,7 +1,7 @@
 simulator: library
-	g++ -O1 -std=c++0x cache-sim/bin/Main.cpp -o cSim
+	g++ -O1 -std=c++0x src/Main.cpp -o cSim
 
 library: simulator
-	make -C cache-sim/
+	make -C src/
 
 .PHONY : simulator
